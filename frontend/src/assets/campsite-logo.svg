@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 120">
+  <!-- Trees -->
+  <path d="M45 35 L50 25 L55 35 Z" fill="#5a7c5a"/>
+  <path d="M48 40 L50 30 L52 40 Z" fill="#5a7c5a"/>
+  <path d="M55 30 L60 20 L65 30 Z" fill="#5a7c5a"/>
+  <path d="M58 35 L60 25 L62 35 Z" fill="#5a7c5a"/>
+  <path d="M70 35 L75 25 L80 35 Z" fill="#5a7c5a"/>
+  <path d="M73 40 L75 30 L77 40 Z" fill="#5a7c5a"/>
+  
+  <!-- CampSite Text -->
+  <text x="35" y="85" font-family="Arial, sans-serif" font-size="48" font-weight="bold" fill="#5a7c5a">Camp</text>
+  <text x="185" y="85" font-family="Arial, sans-serif" font-size="48" font-weight="bold" fill="#ff8c42">Site</text>
+  
+  <!-- Tent (A letter replacement) -->
+  <path d="M205 45 L220 75 L190 75 Z" fill="none" stroke="#ff8c42" stroke-width="3"/>
+  <line x1="205" y1="45" x2="205" y2="75" stroke="#ff8c42" stroke-width="2"/>
+  <line x1="190" y1="75" x2="220" y2="75" stroke="#ff8c42" stroke-width="3"/>
+</svg>
