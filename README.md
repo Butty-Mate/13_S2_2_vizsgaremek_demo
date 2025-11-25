@@ -342,6 +342,23 @@ SESSION_DOMAIN=localhost
 VITE_API_URL=http://localhost:8000/api
 ```
 
+## 📚 Részletes Dokumentáció
+
+### Backend API Kommunikáció
+
+A projekt részletes dokumentációval rendelkezik a backend API működéséről:
+
+- **[BACKEND_API_INDEX.md](BACKEND_API_INDEX.md)** - Dokumentációs útmutató és tartalomjegyzék
+- **[BACKEND_API_SUMMARY.md](BACKEND_API_SUMMARY.md)** - Gyors összefoglaló magyarul (⚡ Kezdd itt!)
+- **[BACKEND_API_VISUAL.md](BACKEND_API_VISUAL.md)** - Vizuális diagramok és folyamatábrák
+- **[BACKEND_API_COMMUNICATION.md](BACKEND_API_COMMUNICATION.md)** - Teljes technikai dokumentáció
+- **[BACKEND_API_EXAMPLES.md](BACKEND_API_EXAMPLES.md)** - Gyakorlati kódpéldák
+
+### Autentikáció
+
+- **[AUTH_DOCUMENTATION.md](AUTH_DOCUMENTATION.md)** - Auth rendszer részletes dokumentációja
+- **[AUTH_SUMMARY.md](AUTH_SUMMARY.md)** - Auth összefoglaló és checklist
+
 ## 🤝 Közreműködés
 
 Ez egy vizsgaremek projekt. Javaslatokat és fejlesztési ötleteket szívesen fogadok!

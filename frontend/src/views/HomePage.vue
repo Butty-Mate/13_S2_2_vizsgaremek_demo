@@ -3,6 +3,7 @@ import { ref, watch } from 'vue'
 import { useRouter } from 'vue-router'
 import { useAuthStore } from '@/stores/auth'
 import axios from 'axios'
+import AuthDemo from '@/components/AuthDemo.vue'
 
 const router = useRouter()
 const authStore = useAuthStore()
@@ -230,6 +231,13 @@ const toggleFaq = (index) => {
             </div>
           </form>
         </div>
+      </div>
+    </section>
+
+    <!-- Auth Demo Section (Development Only) -->
+    <section class="py-16 bg-gradient-to-r from-indigo-100 to-purple-100">
+      <div class="container mx-auto px-4">
+        <AuthDemo />
       </div>
     </section>
 
